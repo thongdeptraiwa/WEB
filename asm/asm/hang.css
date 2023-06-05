@@ -1,0 +1,61 @@
+
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 75px;
+    font-size:xx-large;
+}
+
+.col-25{
+    width:20%;
+    float: left;
+    height: auto;
+    margin: -50px;
+    margin-left: 88px;
+    margin-top: 75px;
+}
+.prod{
+    border-radius:10px;
+    padding:5px;
+    text-align: center;
+    position: relative;
+    background-color: #1f1e1e;
+    z-index: 100;
+    box-shadow: 0 0 4px rgb(99, 97, 97);
+}
+.prod:hover{
+    box-shadow:0 0 5px rgb(255, 253, 253);
+}
+.prod>.name{
+    font-variant: small-caps;
+    color:orangered;
+}
+.prod>.image{
+    max-width:90%;
+    height:150px;
+    margin-bottom: 20px;
+}
+.prod>.price{
+    position: absolute;
+    left:5px;
+    bottom:5px;
+    font-size:25px;
+    color:orange;
+    font-family: Impact;
+}
+.prod>.icons{
+    position: absolute;
+    right:5px;
+    bottom:5px;
+    width:25px;
+    height: 100px;
+    
+}
+.prod>.new-icon{
+    position: absolute;
+    top:0px;
+    right:0px;
+}
+.prod>.new-icon>img{
+    border-top-right-radius: 10px;
+}

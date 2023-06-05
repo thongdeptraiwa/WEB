@@ -1,0 +1,29 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    /* border-color: blue; */
+    text-align: center;
+    margin-bottom: 0px;
+    background-color: white;
+}
+
+tr {
+    border: 2px solid rgb(14, 13, 13);
+}
+
+.hang1{
+    background-color: rgb(2, 2, 2);
+    /* border-color: blue; */
+    border: 2px solid white ;
+    color: white;
+
+}
+.tong{
+    background-color: yellow;
+}
+button{
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    color: white;
+}

@@ -1,0 +1,29 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    /* border-color: blue; */
+    text-align: center;
+    border: 2px solid green ;
+    
+}
+
+tr {
+    border: 2px solid green;
+}
+
+.hang1{
+    background-color: rgb(18, 201, 18);
+    /* border-color: blue; */
+    border: 2px solid white ;
+    color: white;
+
+}
+.hang2{
+    background-color: rgb(210, 238, 168);
+}
+.do{
+    color: red;
+}
+.nit {
+    padding: 24px;
+}

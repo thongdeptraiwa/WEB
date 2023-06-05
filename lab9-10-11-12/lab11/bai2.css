@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid rgba(111, 175, 228, 0.507) ;
+}
+.hang1{
+    color: white;
+    background-color: rgb(14, 92, 236);
+}
+.nit {
+    padding: 16px;
+}

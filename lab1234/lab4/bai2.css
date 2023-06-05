@@ -1,0 +1,12 @@
+a{
+    Font-variant:small-caps;
+    Color:blue;
+    Text-decoration:none;
+}
+a:visited{
+    Color:green;
+}
+a:hover{
+    Color:red;
+    Text-decoration:underline;
+}
